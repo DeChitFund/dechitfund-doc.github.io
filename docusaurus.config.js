@@ -5,8 +5,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'DeChitFund Docs',
   tagline: 'Yet another Lending & Borrowing Protocol',
-  url: 'https://github.com/DeChitFund/dechitfund-doc.github.io',
-  baseUrl: '/',
+  url: 'https://dechitfund.github.io',
+  baseUrl: '/dechitfund-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
